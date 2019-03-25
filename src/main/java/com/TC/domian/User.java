@@ -6,4 +6,6 @@ public class User {
     private String address;
     //1
     private  String ccc;
+    //2
+    private String bbb;
 }
