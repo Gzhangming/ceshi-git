@@ -9,4 +9,6 @@ public class User {
     //2
     private String bbb;
     private String aaa;
+
+    private String cccff;
 }
